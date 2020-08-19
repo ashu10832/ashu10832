@@ -5,6 +5,8 @@
 - 📫 How to reach me: ashu.gupta.dce@gmail.com
 - ⚡ Fun fact: I have a degree in Civil Engineering
 
+[![Ashu's github stats](https://github-readme-stats.vercel.app/api?username=ashu10832)](https://github.com/ashu10832)
+
 
 
 
