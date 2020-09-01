@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Backend Developer at Webfume Technologies
+- 🔭 I’m currently working as a Software Developer at Publicis Sapient
 - 🌱 I’m currently learning React
 - 📫 How to reach me: ashu.gupta.dce@gmail.com
 - ⚡ Fun fact: I have a degree in Civil Engineering
